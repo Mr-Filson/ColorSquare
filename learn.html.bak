@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="main.css" rel="stylesheet" />
+	</head>
+	<body>
+		
+		<div id='square'></div>
+		<script src="colors.js"></script>
+		
+		<hr>
+		<h2><span class = "1">Сайт</span>
+		<span class = "2">"Свето</span><span class = "3">фор"</span></h2>
+		<p>Светофо́р — устройство для 
+		регулирования движения транспорта
+		и пешеходов, в котором 
+		используются сигнальные огни
+		и другие световые сигналы.
+		</p>
+		<hr>
+		<p>Этот сайт представляет из 
+		себя квадрат меняющий цвет по нажатию 
+		</p>
+		
+		
+	</body>
+</html>
